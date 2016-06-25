@@ -1,0 +1,14 @@
+layout_spectrum: 0.9430193
+color:
+  saturation: 0.1557839
+  lightness: 0.2243896
+  brandStrength: 0.7765586
+  brandColors:
+    - '#FFFFFF'
+    - '#CF202E'
+    - '#E1747D'
+    - '#6D6D6F'
+    - '#333436'
+  rhythmicContrast: 0.6407316
+typography_spectrum: 0.4709003
+name: Voodoo74
