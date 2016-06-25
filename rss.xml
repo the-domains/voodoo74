@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Voodoo74]]></title>
         <description><![CDATA[Voodoo74]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/voodoo74/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 06:19:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 25 Jun 2016 06:19:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/voodoo74/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a2ffc58-0323-49fc-a5f8-7643c8f76d55.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a2ffc58-0323-49fc-a5f8-7643c8f76d55.jpg</link>
+            <guid isPermaLink="false">ead2a2a4-eb41-4c20-a108-90968a2c647a</guid>
+            <pubDate>Sat, 25 Jun 2016 06:19:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4ad6c85-522f-4790-a1bf-2f258d196551.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4ad6c85-522f-4790-a1bf-2f258d196551.jpg</link>
+            <guid isPermaLink="false">f909a7db-a5a5-401d-aeb4-c6357d3533e7</guid>
+            <pubDate>Sat, 25 Jun 2016 06:19:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47faa967-ba9b-4ad2-ae90-8ae169ae735c.jpg">]]></description>
