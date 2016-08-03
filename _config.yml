@@ -1,4 +1,4 @@
-layout_spectrum: 0.9430193
+typography_spectrum: 0.4709003
 color:
   saturation: 0.1557839
   lightness: 0.2243896
@@ -10,6 +10,7 @@ color:
     - '#6D6D6F'
     - '#333436'
   rhythmicContrast: 0.6407316
-typography_spectrum: 0.4709003
+layout_spectrum: 0.9430193
 name: Voodoo74
 title: Voodoo
+description: how canst there not be
